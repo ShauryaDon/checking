@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Save restricted Content Bot by <a href="Shaurya Soni">
+  <b>Save restricted Content Bot by **Shaurya Soni** <a href="Shaurya Soni">
 </h1> 
 
 Contact: [Telegram](https://t.me/HarishSoni)
@@ -104,7 +104,7 @@ change accordingly within ```f""```
 - Change Default thumbnail in main directory there is file named ```thumb.jpg``` remove that and upload your custom ```thumb.jpg```
 - Change cancel command (edit this also in ```batch.py```) search for ```/cancel``` and then change the command accordingly
 
-# Commands Available in Bot - [Shaurya SOni]
+# Commands Available in Bot - [Shaurya Soni]
 
 - ```/start``` - to start the bot
 - ```/batch``` - to download the files in range/bulk by giving one post link and range value
