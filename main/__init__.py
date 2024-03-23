@@ -1,4 +1,4 @@
-#Join me at telegram @dev_gagan
+#Join me at telegram @HarishSoni
 
 from pyrogram import Client
 
