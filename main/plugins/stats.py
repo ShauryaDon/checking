@@ -1,5 +1,5 @@
 #from pyrogram import Client, filters  d
-from .. import bot as gagan
+from .. import bot as shaurya
 #from .. import Bot
 #from .. import FORCESUB as fs                        d
 from telethon import events
@@ -56,7 +56,7 @@ async def stats(event):
             f'Memory Total: {mem_t}\n'\
             f'Memory Free: {mem_a}\n'\
             f'Memory Used: {mem_u}\n'\
-            f'Powered by **__[Team SPY](https://t.me/dev_gagan)__**\n'
+            f'Powered by **__[Shaurya Soni]__**\n'
     
     await event.reply(f"{stats}")
    #duz.edit(stats)
