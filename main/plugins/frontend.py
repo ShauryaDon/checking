@@ -1,11 +1,11 @@
-#Developer : Gagan 
+#Developer : Shaurya 
 
 
 import time, os
 
 import logging
 import json
-from .. import bot as gagan
+from .. import bot as Shaurya
 from .. import userbot, Bot
 from .. import FORCESUB as fs
 from main.plugins.pyroplug import get_msg
